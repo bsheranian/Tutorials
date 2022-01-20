@@ -28,7 +28,7 @@ test with
 
 ### Download Maven
 
-Download a binary zip archive of [Apache Maven](https://maven.apache.org/download.cgi#)
+Download a *binary zip archive* of [Apache Maven](https://maven.apache.org/download.cgi#)
 
 Unzip the archive in a folder of your choosing with 
 `unzip apache-maven-3.8.4-bin.zip`
